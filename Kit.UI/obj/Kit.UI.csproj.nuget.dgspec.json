@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.UI\\Kit.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\Kit.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\Kit.Application.csproj",
+        "projectName": "Kit.Application",
+        "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\Kit.Application.csproj",
+        "packagesPath": "C:\\Users\\leonardo.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prototipo.unimedfesp.coop.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj": {
+                "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj",
+        "projectName": "Kit.Domain",
+        "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj",
+        "packagesPath": "C:\\Users\\leonardo.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prototipo.unimedfesp.coop.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\Kit.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\Kit.Infra.csproj",
+        "projectName": "Kit.Infra",
+        "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\Kit.Infra.csproj",
+        "packagesPath": "C:\\Users\\leonardo.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prototipo.unimedfesp.coop.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj": {
+                "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Domain\\Kit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.UI\\Kit.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.UI\\Kit.UI.csproj",
+        "projectName": "Kit.UI",
+        "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.UI\\Kit.UI.csproj",
+        "packagesPath": "C:\\Users\\leonardo.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prototipo.unimedfesp.coop.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\Kit.Application.csproj": {
+                "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Application\\Kit.Application.csproj"
+              },
+              "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\Kit.Infra.csproj": {
+                "projectPath": "C:\\Users\\leonardo.souza\\source\\repos\\TCC\\KitControle\\Kit.Infra\\Kit.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
